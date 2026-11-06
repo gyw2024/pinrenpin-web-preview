@@ -1,0 +1,2 @@
+worker-f 0.1.21
+https://gitlab.com/catamphetamine/worker-f#readme

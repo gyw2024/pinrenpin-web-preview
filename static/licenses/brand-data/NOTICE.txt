@@ -1,0 +1,6 @@
+Bead colour dataset by Bitbead (https://www.bitbead.app).
+Source: https://github.com/pomodiary/bitbead.app/tree/main/data
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Adaptation: selected fields converted to an offline JavaScript catalog for Pinrenpin; colour values and brand codes retained.
+RGB values are approximations. Bead sizes and finishes are not inferred by this app.

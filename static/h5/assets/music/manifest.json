@@ -1,0 +1,35 @@
+[
+  {
+    "id": "slow-sunlight",
+    "title": "慢慢晴",
+    "kind": "轻柔钢琴 · 原创编排",
+    "file": "assets/music/slow-sunlight.mp3",
+    "duration": 72,
+    "bytes": 864908,
+    "sha256": "6859535d075d338b1f2e3a0d9adbab43e9b2cfe5d2e122ee0c191f04a430b93c",
+    "noteEvents": 144,
+    "source": "original deterministic note arrangements; synthesized instruments; no external samples or noise generators"
+  },
+  {
+    "id": "green-leaves",
+    "title": "青叶小调",
+    "kind": "笛音与钢琴 · 原创编排",
+    "file": "assets/music/green-leaves.mp3",
+    "duration": 72,
+    "bytes": 864908,
+    "sha256": "65540968da3058fc33b062775060b2eaa79e000810ac51625e603c0295a8f4dc",
+    "noteEvents": 128,
+    "source": "original deterministic note arrangements; synthesized instruments; no external samples or noise generators"
+  },
+  {
+    "id": "evening-letter",
+    "title": "晚风来信",
+    "kind": "舒缓琴声 · 原创编排",
+    "file": "assets/music/evening-letter.mp3",
+    "duration": 72,
+    "bytes": 864908,
+    "sha256": "3a55aa6e6bf5596ae5be5cc3e96037079d075954f7383030b3d364e06d22cffc",
+    "noteEvents": 128,
+    "source": "original deterministic note arrangements; synthesized instruments; no external samples or noise generators"
+  }
+]
